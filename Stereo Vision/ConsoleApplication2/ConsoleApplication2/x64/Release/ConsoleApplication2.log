@@ -1,0 +1,25 @@
+﻿  ConsoleApplication2.cpp
+ConsoleApplication2.cpp(3): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  ConsoleApplication2.cpp(3): note: Add macro to precompiled header instead of defining here
+  ConsoleApplication2.cpp(4): note: use of precompiled header
+ConsoleApplication2.cpp(119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+ConsoleApplication2.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+ConsoleApplication2.cpp(162): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+ConsoleApplication2.cpp(163): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+ConsoleApplication2.cpp(207): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+ConsoleApplication2.cpp(211): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(212): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(217): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(218): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(220): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(221): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+ConsoleApplication2.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  14 of 252 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication2.vcxproj -> c:\users\raghunandan\documents\visual studio 2015\Projects\ConsoleApplication2\x64\Release\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> c:\users\raghunandan\documents\visual studio 2015\Projects\ConsoleApplication2\x64\Release\ConsoleApplication2.pdb (Full PDB)
